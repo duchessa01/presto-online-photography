@@ -52,6 +52,7 @@ button
 button:hover
 {
     background-color: #fff;
+    transition: 0.1s;
 }
 .notificami
 {
